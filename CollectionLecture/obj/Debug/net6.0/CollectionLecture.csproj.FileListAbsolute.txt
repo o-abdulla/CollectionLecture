@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\bin\Debug\net6.0\CollectionLecture.exe
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\bin\Debug\net6.0\CollectionLecture.deps.json
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\bin\Debug\net6.0\CollectionLecture.runtimeconfig.json
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\bin\Debug\net6.0\CollectionLecture.dll
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\bin\Debug\net6.0\CollectionLecture.pdb
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\CollectionLecture.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\CollectionLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\CollectionLecture.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\CollectionLecture.AssemblyInfo.cs
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\CollectionLecture.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\CollectionLecture.dll
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\refint\CollectionLecture.dll
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\CollectionLecture.pdb
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\CollectionLecture.genruntimeconfig.cache
+C:\Users\osabd\source\repos\CollectionLecture\CollectionLecture\obj\Debug\net6.0\ref\CollectionLecture.dll
